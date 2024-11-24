@@ -4,14 +4,14 @@ File Name format: `{English-Name}_{Arabic-Name}_{Volume-123}_(Version-123)`.pdf
 
 # Authors
 
--   Shaykh Muhammad ibn Salih Al-Uthaymin: [Link](./Authors/Shaykh%20Muhammad%20Ibn%20Salih%20Al-Uthaymeen/)
--   Shaykh Abdur Rahman Nasir As-Sadi: [Link](./Authors/Shaykh%20Abdur%20Rahman%20Nasir%20As-Sadi/)
--   Imam Bukhari: [Link](./Authors/Imam%20Muhammad%20ibn%20Ismail%20al-Bukhari/)
--   Imam Muslim: [Link](./Authors/Imam%20Muslim%20ibn%20al-Hajjaj%20al-Naysaburi/)
--   Imam Abu Dawud: [Link](./Authors/Imam%20Bukhari/)
--   Imam Abu 'Isa al-Tirmidhi: [Link](./Authors/Imam%20Abu%20Isa%20al-Tirmidhi/)
--   Imam Ahmad ibn Shu'ayb al-Nasa'i: [Link](./Authors/Imam%20Ahmad%20ibn%20Shuayb%20al-Nasai/)
--   Imam Ibn Majah al-Qazwini: [Link](./Authors/Imam%20Ibn%20Majah%20al-Qazwini/)
+-   [Link](./Authors/Shaykh%20Muhammad%20Ibn%20Salih%20Al-Uthaymeen/) Shaykh Muhammad ibn Salih Al-Uthaymin
+-   [Link](./Authors/Shaykh%20Abdur%20Rahman%20Nasir%20As-Sadi/) Shaykh Abdur Rahman Nasir As-Sadi
+-   [Link](./Authors/Imam%20Muhammad%20ibn%20Ismail%20al-Bukhari/) Imam Bukhari
+-   [Link](./Authors/Imam%20Muslim%20ibn%20al-Hajjaj%20al-Naysaburi/) Imam Muslim
+-   [Link](./Authors/Imam%20Bukhari/) Imam Abu Dawud
+-   [Link](./Authors/Imam%20Abu%20Isa%20al-Tirmidhi/) Imam Abu 'Isa al-Tirmidhi
+-   [Link](./Authors/Imam%20Ahmad%20ibn%20Shuayb%20al-Nasai/) Imam Ahmad ibn Shu'ayb al-Nasa'i
+-   [Link](./Authors/Imam%20Ibn%20Majah%20al-Qazwini/) Imam Ibn Majah al-Qazwini
 
 # Categories
 
