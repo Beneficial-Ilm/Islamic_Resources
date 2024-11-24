@@ -1,0 +1,2 @@
+-   [Fatawa-Ibn-Baz](https://github.com/Beneficial-Ilm/Islamic_Resources/releases/tag/Fatawa-Ibn-Baz)
+-   [Fatawa-Uthaymeen](https://github.com/Beneficial-Ilm/Islamic_Resources/releases/tag/Fatawa-Uthaymeen)
