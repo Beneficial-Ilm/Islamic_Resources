@@ -1,3 +1,3 @@
 Welcome to Beneficial Ilm. Our goal is to make Beneficial Islamic Knowledge accessible to everyone InshaAllah...
 
-File Name format: `{EnglishName}_({ArabicName})_{Volume123}-(Version123)`
+File Name format: `{English-Name}_({Arabic-Name})_{Volume-123}_(Version-123)`
