@@ -1,1 +1,1 @@
-- Tafsir As-Sadi: [Link](https://github.com/Beneficial-Ilm/Islamic_Resources/releases/tag/Tafsir)
+-   Tafsir As-Sadi: [Link](https://github.com/Beneficial-Ilm/Islamic_Resources/releases/tag/Tafsir_As-Sadi)
